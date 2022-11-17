@@ -1,16 +1,12 @@
 # convert_speech_to_text
 
-A new Flutter project.
+This  application  transform your speech into text. 
 
-## Getting Started
+           > "open Google" -  it opens google search if it finds this keyword
+           
+           >"open email" -   it opens gmail if it finds this keyword
+           
+# ScreenShot  
 
-This project is a starting point for a Flutter application.
+![Screenshot (2)](https://user-images.githubusercontent.com/93071300/202369737-53f856e6-9a45-4860-a45f-337d64b38408.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
